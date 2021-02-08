@@ -1,1 +1,1 @@
-# PUB-DEVICE-SENSOR-SETTINGS-TOOL-JAVA
+# Visit https://projects.gepeo.fr/wine-cellar-temperature-humidity-sensor/settings-tool
