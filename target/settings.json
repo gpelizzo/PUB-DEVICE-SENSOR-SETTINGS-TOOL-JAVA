@@ -1,0 +1,17 @@
+{
+	"components_caption": {"button_refresh_available_serial_ports_caption":"Refresh",
+							"button_connect_serial_port_caption":"Connect",
+							"button_disconnect_serial_port_caption":"Disconnect",
+							"checkbox_keep_previous_infos_settings_caption":"Keep previous Infos&Settings",
+							"label_serial_speed_caption":"Serial speed:",
+							"label_available_serial_ports_caption":"Available Serials Port:",
+							"button_clear_at_terminal_caption":"Clear",
+							"button_send_at_terminal_caption":"Send",
+							"button_read_infos_settings_caption":"Read Device",
+							"button_write_infos_settings_caption":"Write Device ",
+							"button_load_infos_settings_caption":"Load Settings",
+							"button_save_infos_settings_caption":"Save Settings",
+							"tab_infos_caption":"Infos",
+							"tab_settings_caption":"Settings"},
+	"settings": { "schema_definition_file_name":"schema.json", "verbose_mode":"INFO", "serial_speed":115200}
+}
